@@ -1,5 +1,5 @@
 <p>
-  <img src="https//github-readme-stats.vercel.app/api?username=hx-code&show_icons=ture" alt="logo" align="right" style="margin-bottom:20px;"/>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" 
   <P>
   ###我是hx-code🐒
 - 🔭 一名大三前端爱好者
