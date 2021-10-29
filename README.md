@@ -1,9 +1,9 @@
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hx-code&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" 
   <P>
-### 你好，世界 👋
+#你好，世界 👋
 
-- :orange_book: Focusing on js & rust
+- :orange_book: Focusing on javascript & rust
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
